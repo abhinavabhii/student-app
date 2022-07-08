@@ -11,5 +11,6 @@ export class ViewstudentComponent implements OnInit {
 
   ngOnInit(): void {
   }
+  name="adithya"
 
 }
